@@ -23,7 +23,7 @@ public class U2_A3_RestaurantBill {
         DecimalFormat x = new DecimalFormat ("##.##");
         System.out.println("Price = " + price);
         System.out.println("Tax = " + tax);
-        System.out.println("Bill = " + x.format(bill))
+        System.out.println("Bill = " + x.format(bill));
         
         
         
